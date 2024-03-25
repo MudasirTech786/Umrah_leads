@@ -9,7 +9,7 @@
                 @if (count($errors) > 0)
                 <div class="alert alert-danger alert-dismissible">
                     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                    <b><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Fast Lines!</b>
+                    <b><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Dayim!</b>
                     @foreach ($errors->all() as $error)
                         <li>{{ $error }}</li>
                     @endforeach
@@ -23,11 +23,11 @@
                 @endif
                   <div class="card-title text-center">
                     <div class="p-1">
-                      <h3>FAST LINES</h3>
+                      <h3>Dayim!</h3>
                     </div>
                   </div>
                   <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                    <span>Login with FAST LINES</span>
+                    <span>Login with Dayim!</span>
                   </h6>
                 </div>
                 <div class="card-content">
@@ -64,7 +64,7 @@
                 <div class="card-footer">
                   <div class="">
                     <!-- <p class="float-sm-left text-center m-0"><a href="recover-password.html" class="card-link">Recover password</a></p> -->
-                    <!-- <p class="float-sm-right text-center m-0">New to Fast Lines? <a href="register-simple.html" class="card-link">Sign Up</a></p> -->
+                    <!-- <p class="float-sm-right text-center m-0">New to Dayim!? <a href="register-simple.html" class="card-link">Sign Up</a></p> -->
                   </div>
                 </div>
               </div>
