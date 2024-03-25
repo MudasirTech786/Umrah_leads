@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Fast Lines</title>
+  <title>Dayim</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
 	<br/>
 	Thank You,
 	<br/>
-	<i>Fast Lines</i>
+	<i>Dayim</i>
 
 </body>
 </html>

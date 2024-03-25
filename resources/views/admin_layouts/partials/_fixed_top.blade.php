@@ -8,7 +8,7 @@
                 <li class="nav-item mr-auto">
                     <a class="navbar-brand" href="">
                         <img class="brand-logo" alt="" src="">
-                        <h3 class="brand-text">Fast Lines</h3>
+                        <h3 class="brand-text">Dayim</h3>
                     </a>
                 </li>
                 <li class="nav-item d-none d-md-block float-right"><a class="nav-link modern-nav-toggle pr-0"

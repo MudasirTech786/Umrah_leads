@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Fast Lines</title>
+  <title>Dayim</title>
 </head>
 
 <body>
@@ -13,12 +13,12 @@
 	</p>	
 	<br/>
 	<p>
-		 You are receiving this email from Fast Lines.
+		 You are receiving this email from Dayim.
 	</p>
 	
 	Thank You,
 	<br/>
-	<i>Fast Lines</i>
+	<i>Dayim</i>
 
 </body>
 </html>
