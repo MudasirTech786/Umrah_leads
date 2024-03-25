@@ -1,0 +1,32 @@
+{
+  "hash": "d79cd512",
+  "browserHash": "3fec2a15",
+  "optimized": {
+    "flowbite": {
+      "src": "../../node_modules/flowbite/lib/esm/index.js",
+      "file": "flowbite.js",
+      "fileHash": "c55253eb",
+      "needsInterop": false
+    },
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "13ecb654",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "37d632c3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UBNXQJBG": {
+      "file": "chunk-UBNXQJBG.js"
+    },
+    "chunk-SSYGV25P": {
+      "file": "chunk-SSYGV25P.js"
+    }
+  }
+}

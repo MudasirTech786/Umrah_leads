@@ -1,0 +1,147 @@
+/* @import "swiper/css/bundle"; */
+/* test */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* home page styling */
+.specal-offer-box {
+    @apply w-[350px] h-[400px];
+}
+
+.specal-offer-box h4 {
+    @apply text-[22px] font-semibold py-3;
+}
+
+.specal-offer-box > div {
+    @apply px-7;
+}
+
+.specal-offer-box > div > div {
+    @apply flex space-x-3 mb-5;
+}
+
+.specal-offer-box div img {
+    @apply h-[40px] w-[40px] object-contain;
+}
+
+[type="text"]:focus,
+[type="email"]:focus,
+[type="url"]:focus,
+[type="password"]:focus,
+[type="number"]:focus,
+[type="date"]:focus,
+[type="datetime-local"]:focus,
+[type="month"]:focus,
+[type="search"]:focus,
+[type="tel"]:focus,
+[type="time"]:focus,
+[type="week"]:focus,
+[multiple]:focus,
+textarea:focus,
+select:focus {
+    outline: none;
+    outline-offset: 0px;
+    --tw-ring-inset: var(--tw-empty, /*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: red;
+    --tw-ring-offset-shadow: none;
+    --tw-ring-shadow: none calc(1px + var(--tw-ring-offset-width))
+        var(--tw-ring-color);
+    box-shadow: none;
+    border-color: #1c64f2;
+}
+
+/* About slider for team */
+
+/* swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease-in;
+}
+
+swiper-slide:hover > img {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in;
+}
+
+swiper-slide > div {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    background-color: red;
+    bottom: 0;
+    transition: all 0.3s ease-in;
+}
+
+swiper-slide:hover > div {
+    height: 200px;
+    transition: all 0.3s ease-in;
+}
+
+#my-next-button,
+#my-prev-button {
+    position: absolute;
+    top: 45%;
+    z-index: 10;
+    background-color: #1f1f1f;
+    color: white;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#my-next-button:hover,
+#my-prev-button:hover {
+    background-color: #c02428;
+    transition: all 0.3s ease-in;
+}
+
+#my-next-button {
+    right: -16px;
+}
+
+#my-prev-button {
+    left: -16px;
+} */
+
+/* about slider ends */
+
+/* Package calculation page */
+.ui-datepicker-header {
+    background-color: #3498db; /* Set your desired header color */
+    color: #fff; /* Set text color to ensure readability */
+    border: 1px solid #2980b9; /* Add border for better separation */
+}
+
+/* styling scrollbar */
